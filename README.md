@@ -1,12 +1,9 @@
 # Marketing-Analysis
 ## **KPI, Customer Behaviours, Time Series, Hypothesis Testing**
 
-
 <div>
-    <img style="float: center;margin:5px 5px 5px 100px" width="300px" class="marginauto" src="logo.png" width=400 height=100  alt="centered image" />
+    <img src="logo.png" width="300" height="100"  alt="Lapage">
 </div>
-<div style="display: flex; background-color:rgb(213, 219, 219);" >
-<div>    
 
     
 * Je suis consultant Data Analyst chez Lapage, une grande librairie généraliste en ligne très réputée. Je suis directement rattaché au service Marketing.
