@@ -1,8 +1,9 @@
 # Marketing-Analysis
-KPI, Customer Behaviours, Time Series, Hypothesis Testing
+## **KPI, Customer Behaviours, Time Series, Hypothesis Testing**
+
 
 <div>
-    <img style="float: right;margin:150px 5px 5px 1px" width="200px" class="marginauto" src="logo.png" width=400 height=400  alt="centered image" />
+    <img style="float: center;margin:5px 5px 5px 100px" width="300px" class="marginauto" src="logo.png" width=400 height=100  alt="centered image" />
 </div>
 <div style="display: flex; background-color:rgb(213, 219, 219);" >
 <div>    
